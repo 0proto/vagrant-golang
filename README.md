@@ -4,7 +4,7 @@ Vagrant configuration for a simple golang setup.
 
 ## Requirements
 You have to install [Vagrant](https://www.vagrantup.com) and [git](https://git-scm.com/) first.  
-If you're not familiar with Vagrant you can read it's great [docs](https://www.vagrantup.com/docs/)
+If you're not familiar with Vagrant you can read it's great [docs](https://www.vagrantup.com/docs/).
 
 ## Usage
 Run following commands in your preferred directory.
