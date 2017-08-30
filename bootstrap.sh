@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Golang installation variables
-VERSION="1.7.5"
+VERSION="1.9"
 OS="linux"
 ARCH="amd64"
 
