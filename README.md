@@ -9,7 +9,7 @@ If you're not familiar with Vagrant you can read it's great [docs](https://www.v
 ## Usage
 Run following commands in your preferred directory.
 ```bash
-git clone https://github.com/probandula/vagrant-golang
+git clone https://github.com/mbndr/vagrant-golang
 cd vagrant-golang/
 vagrant up
 ```
